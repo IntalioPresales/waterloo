@@ -1,0 +1,41 @@
+	• Fields for the external form:
+		○ First Name
+		○ Last Name
+		○ Address
+		○ Email
+		○ Request Type:
+			§ Breach of contract
+			§ Personal injury
+			§ Adoption
+			§ Patent prosecution
+			§ Estate planning (single)
+			§ Estate planning (married)
+			§ Copyright enforcement
+			§ Divorce
+			§ Slip and fall
+			§ Real estate transaction
+			§ Land use regulation
+			§ Car accident
+			§ Others (we can write another type)
+		○ Practice Area:
+			§ Real estate
+			§ Personal injury
+			§ Family law
+			§ Intellectual property
+			§ Retail
+			§ Food and beverages
+			§ Software
+			§ Health
+			§ Insurance
+			§ Others (we can write another area)
+		Once he choose breach of contract the following will be displayed:
+		○ Date of breach contract letter
+		○ Name of the recipient
+		○ Address of the recipient
+		○ Email of the recipient
+		○ Business name
+		○ Title of the contract
+		○ Date of contract
+		○ Contract purpose
+		○ Breach section name
+		○ Details of the breach

@@ -1,0 +1,15 @@
+
+
+.fa-bar-chart-o:before,.fa-bar-chart:before {
+    content: ""
+}
+.fa-file-image-o:before {
+    content: "";
+}
+
+.fa-file-text-o:before {
+    content: ""
+}
+body{
+    background-color: #ebf1f5;
+}
